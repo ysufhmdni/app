@@ -67,7 +67,7 @@ export default function Daftar() {
 
           <input
             type="text"
-            placeholder="Nama Kelompok"
+            placeholder="Nama Lengkap Prennnn"
             value={namaKelompok}
             onChange={(e) => setNamaKelompok(e.target.value)}
             className="p-3 rounded-md bg-zinc-800 border border-zinc-700"

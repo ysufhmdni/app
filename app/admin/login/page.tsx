@@ -12,7 +12,7 @@ export default function LoginAdmin(){
 
   const login = () => {
 
-    if(username === "admin" && password === "1234"){
+    if(username === "togo" && password === "1234"){
 
       localStorage.setItem("adminLogin","true");
 
