@@ -4,7 +4,7 @@ import { MessageCircle } from "lucide-react";
 import { useEffect } from "react";
 
 export default function Contact() {
-  const phoneNumber = "6281234567890"; // ganti dengan nomor WhatsApp kamu
+  const phoneNumber = "6285157715199"; // ganti dengan nomor WhatsApp kamu
   const message = "Halo, saya ingin bertanya tentang acara bukber.";
 
   const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;

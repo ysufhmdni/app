@@ -32,7 +32,7 @@ export default function About() {
           {/* Card 2 */}
           <div className="bg-zinc-900 p-8 rounded-xl hover:bg-zinc-800 transition flex flex-col items-center text-center">
             <QrCode size={40} className="text-green-400 mb-4" />
-            <h3 className="text-xl font-semibold mb-2">Pembayaran QRIS</h3>
+            <h3 className="text-xl font-semibold mb-2">Pembayaran Mudah</h3>
             <p className="text-zinc-400">
               Pembayaran dilakukan menggunakan QRIS sehingga lebih cepat,
               praktis, dan dapat digunakan oleh berbagai aplikasi pembayaran.
